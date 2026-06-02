@@ -8,6 +8,6 @@ is_student = "false" # Boolean (bool)
 
 
 
-
+#EXPLANATION
 #A variable is a name used to store data.
 #There is no fixed number of variables in Python. You can create as many variables as you need

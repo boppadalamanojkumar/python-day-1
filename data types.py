@@ -46,3 +46,19 @@ print(type(nothing))
 #dict	    (Key-value pairs)                     ex:- {"name":"Manoj"}
 #range	    (Sequence of numbers)	          ex:- range(5)
 #NoneType   (Represents no value)	          ex:- None
+
+
+
+
+
+
+num1 = 20
+num2 = 30
+num3 = 40
+print(num1, num2 ,num3)#here print all values
+
+
+num = 20
+num = 30
+num = 40
+print(num)  #here output is latest value

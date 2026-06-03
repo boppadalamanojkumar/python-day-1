@@ -25,11 +25,8 @@ print(type(my_dict))
 print(type(my_range))
 print(type(nothing))
 
-
 # or we can print all in one line also like this
 # print(type(age),type(height),........)
-
-
 
 
 
